@@ -8,14 +8,27 @@ Experienced Full Stack Developer proficient in Django, React, and React Native. 
 <p>🤖 AWS</p>
 
 <h4>Experiences</h4>
-<div style="display:grid;">
+<div style="display:flex;">
   <div>
     <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.10.58.png" width="260" />
     <p>Jobofa</p>
   </div>
 
    <div>
+    <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.11.37.png" width="260" />
+    <p>Sahara Kitchen</p>
+  </div>
+</div>
+
+
+<div style="display:flex;">
+  <div>
     <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.10.58.png" width="260" />
     <p>Jobofa</p>
+  </div>
+
+   <div>
+    <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.11.37.png" width="260" />
+    <p>Sahara Kitchen</p>
   </div>
 </div>
