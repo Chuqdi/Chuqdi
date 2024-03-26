@@ -29,3 +29,7 @@ Experienced Full Stack Developer proficient in Django, React, and React Native. 
   <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.38.28.png?raw=true" width="280" />Ï
 </a>
 </div>
+
+
+[![Chuqdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chuqdi)](https://github.com/Chuqdi/github-readme-stats)
+
