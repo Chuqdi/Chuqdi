@@ -1,7 +1,11 @@
 #### Fullstack Django/React React Native developer
 Experienced Full Stack Developer proficient in Django, React, and React Native. Crafting seamless digital experiences that captivate users and drive results. Let's collaborate to turn your vision into reality. Connect with me and let's build something extraordinary together! 💻✨"
 
-Skills: React/React Native/ Django
+Skills
+🌐 React
+📱 React Native
+🐍 Python/Django
+🤖 AWS
 
 - 🔭 I’m currently working on this page. 
 
