@@ -1,13 +1,13 @@
-#### Fullstack Django/React React Native developer
+<h3>Fullstack Django/React React Native developer</h3>
 Experienced Full Stack Developer proficient in Django, React, and React Native. Crafting seamless digital experiences that captivate users and drive results. Let's collaborate to turn your vision into reality. Connect with me and let's build something extraordinary together! 💻✨"
 
-<h4>Skills</h4>
+<h3>Skills</h3>
 <p>🌐 React</p>
 <p>📱 React Native</p>
 <p>🐍 Python/Django</p>
 <p>🤖 AWS</p>
 
-<h4>Experiences and live projects</h4>
+<h3>Experiences and live projects</h3>
 <div style="display:flex; flex-direction:row;">
   <a href="https://www.jobofa.com/">
     <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.10.58.png" width="280" />
@@ -31,7 +31,7 @@ Experienced Full Stack Developer proficient in Django, React, and React Native. 
 </div>
 
 
-<h4>GITHub stats</h4>
+<h3>GITHub stats</h3>
 
 [![Chuqdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chuqdi)](https://github.com/Chuqdi/github-readme-stats)
 
