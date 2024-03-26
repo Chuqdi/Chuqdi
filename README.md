@@ -17,9 +17,9 @@ Experienced Full Stack Developer proficient in Django, React, and React Native. 
     <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.11.37.png" width="260" />
   </a>
    <a href="">
-    <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.10.58.png" width="260" />
+    <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.17.21.png" width="260" />
    </a>
 <a href="">
-  <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.11.37.png" width="260" />Ï
+  <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.17.48.png?raw=true" width="260" />Ï
 </a>
 </div>
