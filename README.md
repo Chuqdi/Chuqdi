@@ -9,17 +9,17 @@ Experienced Full Stack Developer proficient in Django, React, and React Native. 
 
 <h4>Experiences</h4>
 <div style="display:flex; flex-direction:row;">
-  <a>
+  <a href="https://www.jobofa.com/">
     <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.10.58.png" width="260" />
   </a>
 
-   <a>
+   <a href="http://saharakitchen.co.uk/">
     <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.11.37.png" width="260" />
   </a>
-   <a href="">
+   <a href="http://wirenovo.com/">
     <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.17.21.png" width="260" />
    </a>
-<a href="">
+<a href="https://www.eatnourisha.com">
   <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.17.48.png?raw=true" width="260" />Ï
 </a>
 </div>
