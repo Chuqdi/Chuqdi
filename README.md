@@ -7,7 +7,15 @@ Experienced Full Stack Developer proficient in Django, React, and React Native. 
 <p>🐍 Python/Django</p>
 <p>🤖 AWS</p>
 
+<h4>Experiences</h4>
+<div style="display:grid;">
+  <div>
+    <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.10.58.png" width="260" />
+    <p>Jobofa</p>
+  </div>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Chuqdi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/hezekiah-morgan-8ba236238//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCE43h-_4yRtVSnfd00CEqJg)  
-
+   <div>
+    <img src="https://github.com/Chuqdi/Chuqdi/blob/main/Screenshot%202024-03-26%20at%2013.10.58.png" width="260" />
+    <p>Jobofa</p>
+  </div>
+</div>
